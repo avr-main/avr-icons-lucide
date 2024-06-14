@@ -1,8 +1,8 @@
 {
-	"name": "--template--",
-	"description": "--template--",
+	"name": "avr-icons-lucide",
+	"description": "Lucide icon library repack for Svelte and Tailwind",
 	"keywords": [
-		"--template--",
+		"Lucide",
 		"Svelte",
 		"SvelteKit",
 		"Tailwindcss",
@@ -14,7 +14,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "--template--"
+		"url": "https://github.com/avr-main/avr-icons-lucide.git"
 	},
 	"author": {
 		"name": "Ashrith V R",
